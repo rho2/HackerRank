@@ -1,0 +1,1 @@
+print(len({input() for a in range(int(input()))}))
